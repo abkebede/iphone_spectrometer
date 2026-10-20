@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or project materials, please cite this repository."
+title: "Affordable Spectrometer"
+type: software
+authors:
+  - family-names: Kebede
+    given-names: Abebe
+    orcid: "https://orcid.org/0000-0002-0500-9966"
+  - family-names: Neal
+    given-names: Joshua
+year: 2025
+repository-code: "https://github.com/abkebede/Affordable-Spectrometer"
